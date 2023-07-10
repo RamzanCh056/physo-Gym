@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522930072016",
+    "project_id": "my-physio-14444",
+    "storage_bucket": "my-physio-14444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522930072016:android:6eb48dabbcdec498d0f1d5",
+        "android_client_info": {
+          "package_name": "com.example.my_physio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522930072016-5betjp8apae6h3m4ckcav48b30td6f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALWseGwKD1DXGR_ByQXLS6G_5RaDGoEcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522930072016-5betjp8apae6h3m4ckcav48b30td6f47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
